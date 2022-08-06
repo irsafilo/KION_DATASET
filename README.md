@@ -57,3 +57,14 @@ This table contains results of the winners of the competition, measured on the p
 | 5                   | Olga              | 0.1135 | Gradient Boosting Trees        |
 | Popularity baseline |                   | 0.0910 |                                |
 
+### Citations
+
+If you use this dataset in your research, please cite our work: 
+
+```
+@article{petrov2022mts,
+  title={MTS Kion Implicit Contextualised Sequential Dataset for Movie Recommendation},
+  author={Aleksandr Petrov,  Ildar Safilo, Daria Tikhonovich and Dmitry Ignatov},
+  year={2022}
+}
+```
