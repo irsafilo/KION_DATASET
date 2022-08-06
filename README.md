@@ -21,10 +21,10 @@ Sandbox is accessible by the address https://ods.ai/competitions/competition-rec
 data_original - original meta-information in russian language
 data_en - english version of the metadata translated with Facebook FAIR’s WMT19 Ru->En machine translation model. 
 
-## Comparison with MovieLens and Netflix datasets
+## Comparison with MovieLens-25M and Netflix datasets
 
 Quantitative comparison:
-| **Dataset Name**             | **Netflix** |**Movielens-25M** | **Kion**           |
+|                              | **Netflix** |**Movielens-25M** | **Kion**           |
 |------------------------------|-------------|------------------|--------------------|
 | Users                        | 480,189     | 162,541          | 962,179            |
 | Items                        | 17,770      | 59,047           | 15,706             |
@@ -32,3 +32,12 @@ Quantitative comparison:
 | Avg. Session Length          | 209.25      | 153.80           | 5.69               |
 | Sparsity                     | 98.82%      | 99.73%           | 99.9%              |
 
+
+Qualitative comparison: 
+| **Dataset Name**                       | **Netflix**.        |       **Movielens-25M**                  | **Kion**                        |
+|----------------------------------------|---------------------|------------------------------------------|---------------------------------|
+| Type                                   | Explicit (Ratings)  | Explicit (Rating)                        | Implicit (Interactions)         |
+|         Interaction registration time. | After watching      | After watching                           | At watching                     |
+|         Interaction features           | Date, Rating        | Date, Rating                             | Date, Duration, Watched Percent |
+|         User features                  | None                | None                                     | Age, Income, Kids               |
+|         Item features                  | Release Year, Title |Release Year,Title,Genres, Tags           | Content Type, Title, Original Title, Release Year, Genres, Countries, For Kids, Age Rating, Studios, Directors, Actors, Description, Keyword |
