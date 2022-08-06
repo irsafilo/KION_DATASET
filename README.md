@@ -9,6 +9,8 @@ The public part of the  dataset includes 5,476,251 interactions of 962,179 users
 
 *Private* part of the dataset contains movies that the users watched within one week following the period covered by the publict dataset. It is not released to general public, however there is a public sandbox, where the researchers can measure MAP@10 metric on the private part of the data. Sandbox is accessible by the address https://ods.ai/competitions/competition-recsys-21/leaderboard/public_sandbox. 
 
+To make a submission, one needs to use \emph{sample\_submission.txt} file, and replace the sample item ids with the ids of the recommended items according to their recommendation model
+
 
 ### The dataset consists of three parts: 
 1. **Interactions.csv** - contains user-item implicit interactions, watch percentages, watch durations
