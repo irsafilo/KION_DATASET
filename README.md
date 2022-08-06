@@ -1,6 +1,13 @@
-# KION RECOMMENDER SYSTEMS DATASET
+# MTS Kion Implicit Contextualised Sequential Dataset for Movie Recommendation
 
-We added interactions in every zip folder and we did original dataset and translated dataset.
+## Dataset Description
+This is an official repository of the Kion Movies Recommendation Dataset
 
-It is the dataset for an online competition, which we conducted in November 2021 - December 2022. We hosted the competition hosted on the Open Data Science platform 3. The main goal of the competition was to predict movies that the users watched within one week following the period covered by the dataset. We keep these interactions in the private part of the dataset, which was not available to the participants.
+The public part of the  dataset includes 5,476,251 interactions of 962,179 users with 15,706 items. The dataset includes user-item interactions; users demographics and rich items meta-data. 
+
+*Private* part of the dataset is not released to general public, however there is a public sandbox, where the researchers can measure MAP@10 metric on the private part of the data. 
+
+Sandbox is accessible by the address https://ods.ai/competitions/competition-recsys-21/leaderboard/public_sandbox
+
+
 
