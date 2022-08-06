@@ -12,9 +12,9 @@ Sandbox is accessible by the address https://ods.ai/competitions/competition-rec
 
 
 ### The dataset consists of three parts: 
-1. Interactions.csv - contains user-item implicit interactions, watch percentages, watch durations
-2. Users.cvs - contains users demographics information (sex, age band, income level band, kids flag) 
-3. Items.cvs - contains items meta-information (title, original title, year, genres, keywords, descriptions, countries, studios, actors, directors)
+1. **Interactions.csv** - contains user-item implicit interactions, watch percentages, watch durations
+2. **Users.cvs** - contains users demographics information (sex, age band, income level band, kids flag) 
+3. **Items.cvs** - contains items meta-information (title, original title, year, genres, keywords, descriptions, countries, studios, actors, directors)
 
 #### The users and items files have two versions: 
 
