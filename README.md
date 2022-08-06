@@ -18,8 +18,8 @@ Sandbox is accessible by the address https://ods.ai/competitions/competition-rec
 
 #### The users and items files have two versions: 
 
-* data_original - original meta-information in Russian language
-* data_en - english version of the metadata translated with Facebook FAIR’s WMT19 Ru->En machine translation model. 
+* **data_original** - original meta-information in Russian language
+* **data_en** - english version of the metadata translated with Facebook FAIR’s WMT19 Ru->En machine translation model. 
 
 ## Comparison with MovieLens-25M and Netflix datasets
 
