@@ -22,6 +22,8 @@ data_original - original meta-information in russian language
 data_en - english version of the metadata translated with Facebook FAIR’s WMT19 Ru->En machine translation model. 
 
 ## Comparison with MovieLens and Netflix datasets
+
+Quantitative comparison:
 | **Dataset Name**             | **Netflix** |**Movielens-25M** | **Kion**           |
 |------------------------------|-------------|------------------|--------------------|
 | Users                        | 480,189     | 162,541          |         962,179    |
@@ -29,3 +31,4 @@ data_en - english version of the metadata translated with Facebook FAIR’s WMT1
 | Interactions                 | 100,480,507 | 25,000,095       |         5,476,251  |
 | Avg. Session Length}         | 209.25      | 153.80           |         5.69       |
 | Sparsity                     | 98.82%      | 99.73 %          |         99.9  %    |
+
