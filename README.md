@@ -41,3 +41,18 @@ Sandbox is accessible by the address https://ods.ai/competitions/competition-rec
 |         Interaction features           | Date, Rating        | Date, Rating                             | Date, Duration, Watched Percent |
 |         User features                  | None                | None                                     | Age, Income, Kids               |
 |         Item features                  | Release Year, Title |Release Year, Title, Genres, Tags           | Content Type, Title, Original Title, Release Year, Genres, Countries, For Kids, Age Rating, Studios, Directors, Actors, Description, Keyword |
+
+# Kion challenge
+This dataset was used for the Kion challenge recommendation contest [ (Official website in Russian Language)](https://ods.ai/competitions/competition-recsys-21). 
+
+This table contains results of the winners of the competition, measured on the private part of the dataset: 
+
+| Position            | Name              | MAP@10 | Solution Type                  |
+|---------------------|-------------------|--------|--------------------------------|
+| 1                   | Oleg Lashinin     | 0.1221 | Neural and Non-Neural ensemble |
+| 2                   | Aleksandr Petrov  | 0.1214 | Neural and Non-Neural ensemble |
+| 3                   | Stepan Zimin      | 0.1213 | Non-Neural ensemble            |
+| 4                   | Daria Tikhonovich | 0.1148 | Gradient Boosting Trees        |
+| 5                   | Olga              | 0.1135 | Gradient Boosting Trees        |
+| Popularity baseline |                   | 0.0910 |                                |
+
