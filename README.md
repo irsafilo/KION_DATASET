@@ -40,4 +40,4 @@ data_en - english version of the metadata translated with Facebook FAIR’s WMT1
 |         Interaction registration time. | After watching      | After watching                           | At watching                     |
 |         Interaction features           | Date, Rating        | Date, Rating                             | Date, Duration, Watched Percent |
 |         User features                  | None                | None                                     | Age, Income, Kids               |
-|         Item features                  | Release Year, Title |Release Year,Title,Genres, Tags           | Content Type, Title, Original Title, Release Year, Genres, Countries, For Kids, Age Rating, Studios, Directors, Actors, Description, Keyword |
+|         Item features                  | Release Year, Title |Release Year, Title, Genres, Tags           | Content Type, Title, Original Title, Release Year, Genres, Countries, For Kids, Age Rating, Studios, Directors, Actors, Description, Keyword |
