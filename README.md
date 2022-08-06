@@ -9,7 +9,7 @@ The public part of the  dataset includes 5,476,251 interactions of 962,179 users
 
 Sandbox is accessible by the address https://ods.ai/competitions/competition-recsys-21/leaderboard/public_sandbox
 
-The data was gathered from the users of MTS Kion video streaming platform from 13.03.2021 to 22.08.2022.
+The data was gathered from the users of ([MTS Kion](https://kion.ru/home) video streaming platform from 13.03.2021 to 22.08.2022.
 
 ### The dataset consists of three parts: 
 1. **Interactions.csv** - contains user-item implicit interactions, watch percentages, watch durations
