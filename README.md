@@ -29,6 +29,6 @@ Quantitative comparison:
 | Users                        | 480,189     | 162,541          |         962,179    |
 | Items                        | 17,770      | 59,047           |         15,706     |
 | Interactions                 | 100,480,507 | 25,000,095       |         5,476,251  |
-| Avg. Session Length}         | 209.25      | 153.80           |         5.69       |
+| Avg. Session Length         | 209.25      | 153.80           |         5.69       |
 | Sparsity                     | 98.82%      | 99.73 %          |         99.9  %    |
 
