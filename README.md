@@ -23,7 +23,7 @@ data_en - english version of the metadata translated with Facebook FAIR’s WMT1
 
 ## Comparison with MovieLens-25M and Netflix datasets
 
-Quantitative comparison:
+### Quantitative comparison:
 |                              | **Netflix** |**Movielens-25M** | **Kion**           |
 |------------------------------|-------------|------------------|--------------------|
 | Users                        | 480,189     | 162,541          | 962,179            |
@@ -33,7 +33,7 @@ Quantitative comparison:
 | Sparsity                     | 98.82%      | 99.73%           | 99.9%              |
 
 
-Qualitative comparison: 
+### Qualitative comparison: 
 | **Dataset Name**                       | **Netflix**.        |       **Movielens-25M**                  | **Kion**                        |
 |----------------------------------------|---------------------|------------------------------------------|---------------------------------|
 | Type                                   | Explicit (Ratings)  | Explicit (Rating)                        | Implicit (Interactions)         |
