@@ -57,7 +57,11 @@ This table contains results of the winners of the competition, measured on the p
 | 5                   | Olga              | 0.1135 | Gradient Boosting Trees        |
 | Popularity baseline |                   | 0.0910 |                                |
 
-### Citations
+## Acknowledgements
+
+[Igor Belkov](https://github.com/OzmundSedler), [Irina Elisova](https://github.com/ElisovaIra), 
+
+## Citations
 
 If you use this dataset in your research, please cite our work: 
 
