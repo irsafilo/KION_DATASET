@@ -59,7 +59,8 @@ This table contains results of the winners of the competition, measured on the p
 
 ## Acknowledgements
 
-[Igor Belkov](https://github.com/OzmundSedler), [Irina Elisova](https://github.com/ElisovaIra)
+[Igor Belkov](https://github.com/OzmundSedler), [Irina Elisova](https://github.com/ElisovaIra).
+
 We would would like to acknowledge Kion challenge participants Oleg Lashinin,  Stepan Zimin, and Olga for providing descriptions of their Kion Challenge solutions, MTS Holding for providing the Kion dataset, ODS.ai international platform for hosting the competition. 
 
 ## Citations
