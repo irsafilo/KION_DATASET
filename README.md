@@ -59,7 +59,7 @@ This table contains results of the winners of the competition, measured on the p
 
 ## Acknowledgements
 
-[Igor Belkov](https://github.com/OzmundSedler), [Irina Elisova](https://github.com/ElisovaIra), 
+[Igor Belkov](https://github.com/OzmundSedler), [Irina Elisova](https://github.com/ElisovaIra)
 
 ## Citations
 
